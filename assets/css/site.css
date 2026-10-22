@@ -59,6 +59,7 @@ footer{background:var(--card);border-top:1px solid var(--line);padding-block:36p
 footer .wrap{display:flex;flex-direction:column;gap:8px}
 footer p{max-width:92ch}
 footer b{color:var(--ink)}
+footer a.pp{color:var(--ink);font-weight:600;text-decoration:underline}
 
 @media(max-width:860px){
   header .wrap{flex-wrap:wrap;height:auto;padding-top:10px;row-gap:8px}
